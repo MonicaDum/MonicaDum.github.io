@@ -7,6 +7,16 @@
 	color: #181B20;
 }
 
+.auto-style1 {
+	font-family: Oswald, sans-serif;
+	color: #262626;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.auto-style2 {
+	margin-left: 0px;
+}
+
 h1, h2, h3 {
 	margin: 0;
 	padding: 0;
